@@ -43,3 +43,21 @@ Data-Analysis-Projects/
 ├── Google_Playstore_analysis/
 ├── global-climate-analysis/
 └── README.md
+```
+Each project folder contains:
+- Project-specific data (or data references)
+- SQL queries, Python notebooks/scripts, and/or Power BI artifacts
+- A dedicated README.md describing scope, methodology, and results
+
+## 🧰 Tools & Technologies  
+
+- SQL (PostgreSQL / MySQL / SQLite)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Excel (initial data structuring & validation)
+- Power BI (data modeling, DAX, dashboards)
+
+## 📝 Notes
+
+- Projects are modular and independent
+- Focus is on analytical reasoning, data structure, and decision support
+- A more detailed written report is currently being developed for selected projects
