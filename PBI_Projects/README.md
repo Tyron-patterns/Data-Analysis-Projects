@@ -32,7 +32,7 @@ The dataset includes rental counts along with contextual variables such as:
 - DAX and time-intelligence calculations  
 - Dashboard design and business-oriented storytelling
 
-### ---
+<hr style="height:4px; border:none; background-color:black;">
 
 # ⚡ ElectroHub Sales Analysis (Power BI)
 
